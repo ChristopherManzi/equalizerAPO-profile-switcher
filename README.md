@@ -9,8 +9,8 @@ Written in C# with Windows Forms and .NET Framework 4.8. No NuGet packages, inst
 Requires Windows 10/11 with **.NET Framework 4.8** and Windows PowerShell. Equalizer APO must already be installed and configured for your audio device.
 
 ```powershell
-git clone https://github.com/ChristopherManzi/equalizer-profile-switcher.git
-cd equalizer-profile-switcher
+git clone https://github.com/ChristopherManzi/equalizerAPO-profile-switcher.git
+cd equalizerAPO-profile-switcher
 powershell -NoProfile -ExecutionPolicy Bypass -File ./build.ps1 -Test
 ./artifacts/EqualizerProfileSwitcher.exe
 ```
