@@ -1,0 +1,3 @@
+# Example only: reduces volume to provide headroom.
+# Adjust this value for your own audio setup.
+Preamp: -6 dB
